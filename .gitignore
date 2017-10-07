@@ -1,0 +1,14 @@
+*.class
+*.log
+*.classpath
+*.project
+.cache-main
+.settings/
+/target
+/project
+
+/bin/
+/.settings
+/.classpath
+/.project
+/bin
